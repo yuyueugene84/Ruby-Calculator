@@ -50,6 +50,4 @@ elsif operator == "3"
 elsif operator == "4"
   answer = num1.to_f / num2.to_f
   result(answer)
-else
-  puts "please enter a valid oepration!"
 end
